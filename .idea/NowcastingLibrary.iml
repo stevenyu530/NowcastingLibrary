@@ -11,7 +11,7 @@
       <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/IPythonNotebooks/.ipynb_checkpoints" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.5.1 (~/anaconda/envs/python3/bin/python)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">
